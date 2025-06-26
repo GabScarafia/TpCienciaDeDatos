@@ -1,0 +1,4 @@
+# Ignorar archivo ZIP
+ml-1m.zip
+# Ignorar carpeta extraída
+ml-1m/
