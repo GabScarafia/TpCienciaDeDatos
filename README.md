@@ -4,18 +4,18 @@ repositorio del Tp Ciencia De Datos
 ## antes de arrancar:
 instalar python, 
         git-bash (Requiere reiniciar compu), 
-        ipynb
-
-Para crear entorno virtual:
-py -3.13 -m venv .venv   (cambiar por tu versión)                     
+        ipynb                   
 
 
 ## Creacion de entorno virtual:
+Para crear entorno virtual:
+py -3.13 -m venv .venv   (cambiar por tu versión)  
+
 Para activarlo por powershell:
 .venv\Scripts\Activate.ps1
 
 ## Instalacion de dependencias
-Una vez activo instalar dependencias:
+Una vez activo el entorno virtual instalar dependencias:
 pip install -r requirements.txt                                                          
 
 ## Selección de entorno virtual como Kernel de la notebook
