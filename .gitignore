@@ -5,3 +5,4 @@ ml-1m/
 dataset/*
 ml-20m/
 dataset.zip
+/.venv

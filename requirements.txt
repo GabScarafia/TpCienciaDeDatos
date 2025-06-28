@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+wget
+unzip
+huggingface_hub[hf_xet]
+google-generativeai
