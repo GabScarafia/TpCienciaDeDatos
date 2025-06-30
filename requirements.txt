@@ -8,3 +8,5 @@ huggingface_hub[hf_xet]
 google-generativeai
 spacy
 seaborn
+matplotlib.pyplot
+wordcloud
