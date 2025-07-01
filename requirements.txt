@@ -10,3 +10,6 @@ spacy
 seaborn
 matplotlib.pyplot
 wordcloud
+google.generativeai
+wordcloud
+es_core_news_sm
