@@ -6,3 +6,8 @@ wget
 unzip
 huggingface_hub[hf_xet]
 google-generativeai
+es_core_news_sm
+spacy
+matplotlib
+seaborn
+wordcloud
